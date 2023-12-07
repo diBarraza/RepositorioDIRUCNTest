@@ -1,19 +1,3 @@
-<style>
-  /* Estilos generales del contenedor */
-  .logo-container {
-    text-align: center; /* Centrar el contenido */
-  }
-
-  /* Estilos específicos de la imagen (logo) */
-  .logo-container img {
-    width: 150px; /* Ancho deseado para el logo */
-    height: auto; /* Altura automática para mantener la proporción original */
-    border-radius: 50%; /* Añadir esquinas redondeadas para un aspecto más suave (opcional) */
-    border: 2px solid #333; /* Añadir un borde opcional */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añadir una sombra suave (opcional) */
-  }
-</style>
-
 <div align="center" id="top">  
 <!-- <div class="logo-container" >
     <img src="8699849.PNG" alt="Logo"  />
