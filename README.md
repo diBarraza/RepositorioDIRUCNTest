@@ -1,10 +1,15 @@
-![Logo](/Escudo-UCN-Full-Color.png)
+
+
+<p align="center">
+  <img align="center" src="Escudo-UCN-Full-Color.png" alt="Logo" width="100" height="100"/>
+</p>
+
 
 <h1 align="center">ScriptsSQL UCN DIR</h1>
 
+
 <p align="center">
   <a href="https://www.ucn.cl">UCN DIR</a>
-
 </p>
 
 <!-- Status -->
