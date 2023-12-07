@@ -15,11 +15,17 @@
 </style>
 
 <div align="center" id="top">  
-  <div class="logo-container" >
+<!-- <div class="logo-container" >
     <img src="8699849.PNG" alt="Logo"  />
-  </div>  
+  </div> -->
+  <div align="center">
+    <img src="8699849.PNG" alt="Logo" width="150" style="border-radius: 50%; border: 2px solid #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
+  </div>
   <a href="https://www.ucn.cl">UCN DIR</a>
 </div>
+
+
+
 
 <h1 align="center">ScriptsSQL UCN DIR</h1>
 
