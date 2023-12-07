@@ -1,5 +1,3 @@
-
-
 ![Logo](/Escudo-UCN-Full-Color.png)
 
 <h1 align="center">ScriptsSQL UCN DIR</h1>
