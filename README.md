@@ -1,20 +1,11 @@
-<div align="center" id="top">  
-<!-- <div class="logo-container" >
-    <img src="8699849.PNG" alt="Logo"  />
-  </div> -->
-  <div align="center">
-    - ![Logo de mi proyecto](8699849.PNG)
-  </div>
-  <a href="https://www.ucn.cl">UCN DIR</a>
-</div>
 
 
-
+![Logo](/Escudo-UCN-Full-Color.png)
 
 <h1 align="center">ScriptsSQL UCN DIR</h1>
 
 <p align="center">
-  
+  <a href="https://www.ucn.cl">UCN DIR</a>
 
 </p>
 
