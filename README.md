@@ -3,7 +3,7 @@
     <img src="8699849.PNG" alt="Logo"  />
   </div> -->
   <div align="center">
-    <img src="8699849.PNG" alt="Logo" width="150" style="border-radius: 50%; border: 2px solid #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
+    - ![Logo de mi proyecto](8699849.PNG)
   </div>
   <a href="https://www.ucn.cl">UCN DIR</a>
 </div>
